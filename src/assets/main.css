@@ -1,0 +1,13 @@
+@import "./base.css";
+
+#app {
+  min-height: 100vh;
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+
+body, h1, h2, h3, p , ul{
+  margin: 0;
+}
+
