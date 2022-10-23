@@ -77,7 +77,6 @@ const breeds = ref([]);
 const canShow = ref(false);
 
 const setCanShow = (value: boolean) => {
-  console.log(value);
   canShow.value = value;
 };
 
