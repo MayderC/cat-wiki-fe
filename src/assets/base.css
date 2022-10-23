@@ -1,12 +1,14 @@
 /* color palette from <https://github.com/vuejs/theme> */
 
+:root{
+  --width:  1248px;
+}
 
 *,
 *::before,
 *::after {
   box-sizing: border-box;
   margin: 0;
-  position: relative;
   font-weight: normal;
 }
 
